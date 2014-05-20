@@ -1,0 +1,52 @@
+div {
+    height:100px;
+    width:100px;
+    display: inline-block;
+}
+
+#red {
+    background-color:#FF0000;
+}
+
+#blue {
+    background-color:#0000FF;
+}
+
+#yellow {
+    background-color:#E2BE22;
+}
+
+#green {
+    background-color:#008800;
+}
+
+#black {
+    background-color: black;
+}
+
+a.button {
+	height: 50px;
+    width: 520px;
+    border-radius: 5px;
+    background-color: #69D2E7;
+    text-align: center;
+    padding-top:20px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 20px;
+    opacity: 0.5;
+    display: block;
+    text-decoration:none;
+    font-family: arial;
+    transition-property: opacity;
+    transition-duration: 0.5s;
+}
+
+a.button:hover {
+	opacity: 1;
+}
+
+
+
+
+
